@@ -14,4 +14,4 @@
 12.git checkout origin/branch-name --> to checkout to the remote repo branch
 13.git branch -d <branch name>
 14.git branch -D 
-
+15.git checkout origin/master
