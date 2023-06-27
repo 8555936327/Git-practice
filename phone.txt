@@ -1,0 +1,17 @@
+# GIT Important notes by Ramesh anna
+
+1. git commit <file name> -> to see who made code changes in a file.
+2. git show -> to see the latest commit id
+3. commit id is the snapshot or the version of the code
+4. git log --oneline -> it will gives the commits info in oneline
+5. git restore --stagged <file name>  -> it will remove the info from staging area. (this will be untracked).
+6. git ls-files -> it will list all the files which are there in the staging area.
+7. git show -HEAD -> shows the always pointing to current commit
+8. git show -HEAD~1 it will show previous commit details.
+9. git remote add origin https://github.com/8555936327/Git-practice.git  --> to config the remote Git repo with local Git repo use this command
+10.git branch --list -> to list the branches 
+11.git ls-remote origin --> to list he remote repo branches
+12.git checkout origin/branch-name --> to checkout to the remote repo branch
+13.git branch -d <branch name>
+14.git branch -D 
+
