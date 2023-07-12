@@ -19,3 +19,5 @@
 17.git pull -r
 
 18. gitcheckout master
+19. git branch suman
+20. git checkout suman
