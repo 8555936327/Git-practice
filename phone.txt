@@ -17,3 +17,5 @@
 15.git checkout origin/master
 16.git status
 17.git pull -r
+
+18. gitcheckout master
