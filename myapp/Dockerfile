@@ -5,7 +5,7 @@ ENV NODE_ENV=production \
 
 RUN useradd -m appuser
 
-WORKDIR $APP_HOME
+WORKDIR $APP_HOMe
 
 COPY package*.json ./
 
