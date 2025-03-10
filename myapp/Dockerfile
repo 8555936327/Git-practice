@@ -17,6 +17,6 @@ RUN chown -R appuser:appuser $APP_HOME
 
 USER appuser
 
-EXPOSE 3000
+EXPOSE 3001
 
 CMD ["npm", "start"]
